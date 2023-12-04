@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProvaLucasAnzai_LP2/static/css/main.7a963e1f.css",
+    "main.js": "/ProvaLucasAnzai_LP2/static/js/main.0309791e.js",
+    "index.html": "/ProvaLucasAnzai_LP2/index.html",
+    "main.7a963e1f.css.map": "/ProvaLucasAnzai_LP2/static/css/main.7a963e1f.css.map",
+    "main.0309791e.js.map": "/ProvaLucasAnzai_LP2/static/js/main.0309791e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a963e1f.css",
+    "static/js/main.0309791e.js"
+  ]
+}
